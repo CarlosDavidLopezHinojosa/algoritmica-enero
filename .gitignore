@@ -1,0 +1,6 @@
+*.txt
+*/a.out
+venv
+*.sh
+*.py
+.vscode
